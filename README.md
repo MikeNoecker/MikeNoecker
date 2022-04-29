@@ -1,4 +1,10 @@
-### Hi there 👋
+## What's popin' 👋
+
+## Languages I Know
+
+
+## Languages I'm Learning/ Working on
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <!--
 **MikeNoecker/MikeNoecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
