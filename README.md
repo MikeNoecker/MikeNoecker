@@ -1,6 +1,5 @@
 ### Howdy 👋
-![](https://komarev.com/ghpvc/?username=MikeNoecker)  ![](https://img.shields.io/github/followers/{MikeNoecker}.svg?style=social&label=Follow&maxAge=2592000)  ![](https://img.shields.io/badge/<Vibe Check>-<Passed>-<Green>.svg)
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+![](https://komarev.com/ghpvc/?username=MikeNoecker)  [![Generic badge](https://img.shields.io/badge/<Vibe Check>-<Passed>-<COLOR>.svg)](https://shields.io/)
 
 
 ### Languages
