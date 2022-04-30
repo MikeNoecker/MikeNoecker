@@ -1,6 +1,6 @@
 ### Howdy 👋
 ![](https://komarev.com/ghpvc/?username=MikeNoecker)  
-[![Generic badge](https://img.shields.io/badge/<VibeCheck>-<Passed>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<Vibe-Check>-<Passed>-<COLOR>.svg)](https://shields.io/)
 
 
 ### Languages
