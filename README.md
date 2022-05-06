@@ -8,9 +8,7 @@
 ### Tools/ Other
 <img src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="drawing" width="35"/>  <img src="https://user-images.githubusercontent.com/93604070/167147885-50048e98-12ea-4d06-99e3-720830a4691e.svg" alt="drawing" width="35"/>  <img src="https://user-images.githubusercontent.com/93604070/167147915-559742b7-6d4f-49ac-87c4-de05d0f6024b.svg" alt="drawing" width="50"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikenoecker&show_icons=true&locale=en" alt="mikenoecker" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikenoecker&show_icons=true&locale=en&layout=compact" alt="mikenoecker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikenoecker&show_icons=true&locale=en" alt="mikenoecker" /></p>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikenoecker&show_icons=true&locale=en&layout=compact" alt="mikenoecker" /></p>
 
 <!--
 ### Groups
