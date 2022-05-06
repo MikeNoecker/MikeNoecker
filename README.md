@@ -11,8 +11,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikenoecker&show_icons=true&locale=en" alt="mikenoecker" /></p>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikenoecker&show_icons=true&locale=en&layout=compact" alt="mikenoecker" /></p>
 
 
-
-https://icon-library.com/images/linux-server-icon/linux-server-icon-17.jpg
 <!--
 ### Groups
 <p>Cyber Security Club</p>  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
